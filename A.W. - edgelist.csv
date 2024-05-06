@@ -1,0 +1,49 @@
+from,to,relationship
+uvdl,zero,1
+lk,zero,1
+nr,zero,1
+sw,zero,1
+cs,zero,1
+cld,eins,1
+ks,eins,1
+lm,eins,1
+kd,eins,1
+el,eins,1
+ab,zwei,1
+ft,zwei,1
+am,zwei,1
+al,zwei,1
+er,zwei ,1
+rh,drei,1
+cm,drei,1
+kp,drei,1
+rk,drei,1
+cll,vier,1
+sb,vier,1
+ch,vier,1
+mw,vier,1
+os,fuenf,1
+uvdl,CDU,2
+lk,SPD,2
+nr,CDU,2
+sw,Die Linke,2
+cs,0,
+cld,FDP,
+ks,0,
+lm,0,
+kd,0,
+el,0,
+ab,Bündnis 90/Die Grünen,
+ft,0,
+am,0,
+al,FDP,
+er,0,
+rh,Bündnis 90/Die Grünen,
+cm,0,
+kp,0,
+rk,CDU,
+cll,SPD,
+sb,0,
+ch,0,
+mw,0,
+os,SPD,
